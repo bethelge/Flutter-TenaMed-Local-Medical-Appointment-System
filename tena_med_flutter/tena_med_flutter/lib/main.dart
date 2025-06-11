@@ -8,6 +8,7 @@ import 'features/appointment/presentation/screens/doctor_login_screen.dart';
 import 'features/appointment/presentation/screens/doctor_profile_after_setup_screen.dart';
 import 'features/appointment/presentation/screens/doctor_profile_setup_screen.dart';
 import 'features/appointment/presentation/screens/doctor_signup_screen.dart';
+import 'features/appointment/presentation/screens/patient_landing_screen.dart';
 import 'features/appointment/presentation/screens/patient_signup_screen.dart';
 import 'features/appointment/presentation/screens/post_booking_home_screen.dart';
 
@@ -55,6 +56,10 @@ class TenaMedApp extends StatelessWidget {
         GoRoute(
           path: '/doctor_profile_after_setup',
           builder: (context, state) => const DoctorProfileAfterSetupScreen(),
+        ),
+        GoRoute(
+          path: '/patient-landing',
+          builder: (context, state) =>  PatientLandingScreen(),
         ),
 
       ],
