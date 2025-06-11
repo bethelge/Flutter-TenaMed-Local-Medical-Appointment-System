@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944f167d-ab5e-425b-9cc9-d5d270388b6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/features/appointment/presentation/screens/PatientLoginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/features/appointment/presentation/screens/patient_signup_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
