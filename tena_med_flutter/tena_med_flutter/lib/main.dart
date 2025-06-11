@@ -7,6 +7,7 @@ import 'features/appointment/presentation/screens/PatientLoginScreen.dart';
 import 'features/appointment/presentation/screens/doctor_login_screen.dart';
 import 'features/appointment/presentation/screens/doctor_signup_screen.dart';
 import 'features/appointment/presentation/screens/patient_signup_screen.dart';
+import 'features/appointment/presentation/screens/post_booking_home_screen.dart';
 
 void main() {
   runApp(const ProviderScope(child: TenaMedApp()));
@@ -40,6 +41,10 @@ class TenaMedApp extends StatelessWidget {
         GoRoute(
           path: '/signup',
           builder: (context, state) => const DoctorSignupScreen(),
+        ),
+        GoRoute(
+          path: '/post-booking-home',
+          builder: (context, state) => const PostBookingHomeScreen(),
         ),
 
       ],
