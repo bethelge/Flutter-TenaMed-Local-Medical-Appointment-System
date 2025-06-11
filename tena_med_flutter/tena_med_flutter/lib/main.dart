@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:tena_med_flutter/features/appointment/presentation/screens/welcome_screen.dart';
 
+import 'features/appointment/presentation/screens/PatientLoginScreen.dart';
 
 void main() {
   runApp(const ProviderScope(child: TenaMedApp()));
@@ -14,13 +15,31 @@ class TenaMedApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final _router = GoRouter(
-  initialLocation: '/',
-  routes: [
-    GoRoute(
-      path: '/',
-      builder: (context, state) => const WelcomeScreen(),
-    ),
+      initialLocation: '/',
+      routes: [
+        GoRoute(
+          path: '/',
+          builder: (context, state) => const WelcomeScreen(),
+        ),
 
+        GoRoute(
+          path: '/patient-login',
+          builder: (context, state) => const PatientLoginScreen(),
+        ),
+
+      ],
+    );
+
+
+    return MaterialApp.router(
+      title: 'TenaMed',
+      theme: ThemeData(
+        primarySwatch: Colors.teal,
+        useMaterial3: true,
+      ),
+      routerConfig: _router,
+
+    );
   }
 }
 

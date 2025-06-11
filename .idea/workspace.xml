@@ -5,131 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944f167d-ab5e-425b-9cc9-d5d270388b6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/kotlin/com/example/tena_med_flutter/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/android/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/assets/images/doc1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/assets/images/doc2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/assets/images/doctor_avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/assets/images/doctors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/features/appointment/presentation/screens/welcome_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/flutter/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/flutter/generated_plugins.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/runner/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/runner/main.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/runner/my_application.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/linux/runner/my_application.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/DebugProfile.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/Runner/Release.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/test/features/appointment/auth/data/auth_repository_impl_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/test/features/appointment/auth/presentation/viewmodels/doctor_auth_viewmodel_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/test/integration_test/doctor_signup_flow_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/test/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/icons/Icon-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/icons/Icon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/icons/Icon-maskable-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/icons/Icon-maskable-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tena_med_flutter/tena_med_flutter/lib/features/appointment/presentation/screens/PatientLoginScreen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,13 +38,14 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mekli/Documents/GitHub/Flutter-TenaMed-Local-Medical-Appointment-System",
+    "last_opened_file_path": "C:/Users/mekli/Documents/GitHub/Flutter-TenaMed-Local-Medical-Appointment-System/tena_med_flutter/tena_med_flutter/lib/features/appointment/presentation/screens",
     "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mekli\Documents\GitHub\Flutter-TenaMed-Local-Medical-Appointment-System\tena_med_flutter\tena_med_flutter\lib\features\appointment\presentation\screens" />
       <recent name="C:\Users\mekli\Documents\GitHub\Flutter-TenaMed-Local-Medical-Appointment-System" />
     </key>
   </component>
