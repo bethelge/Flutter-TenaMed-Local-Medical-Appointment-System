@@ -5,6 +5,7 @@ import 'package:tena_med_flutter/features/appointment/presentation/screens/welco
 
 import 'features/appointment/presentation/screens/PatientLoginScreen.dart';
 import 'features/appointment/presentation/screens/doctor_login_screen.dart';
+import 'features/appointment/presentation/screens/doctor_signup_screen.dart';
 import 'features/appointment/presentation/screens/patient_signup_screen.dart';
 
 void main() {
@@ -35,6 +36,10 @@ class TenaMedApp extends StatelessWidget {
         GoRoute(
           path: '/login',
           builder: (context, state) => const DoctorLoginScreen(),
+        ),
+        GoRoute(
+          path: '/signup',
+          builder: (context, state) => const DoctorSignupScreen(),
         ),
 
       ],
