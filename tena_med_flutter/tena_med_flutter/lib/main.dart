@@ -61,6 +61,10 @@ class TenaMedApp extends StatelessWidget {
           path: '/patient-landing',
           builder: (context, state) =>  PatientLandingScreen(),
         ),
+        GoRoute(
+          path: '/appointment-list',
+          builder: (context, state) => const AppointmentListScreen(),
+        ),
 
       ],
     );
