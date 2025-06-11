@@ -4,6 +4,8 @@ import 'package:go_router/go_router.dart';
 import 'package:tena_med_flutter/features/appointment/presentation/screens/welcome_screen.dart';
 
 import 'features/appointment/presentation/screens/PatientLoginScreen.dart';
+import 'features/appointment/presentation/screens/appointment_list_screen.dart';
+import 'features/appointment/presentation/screens/book_appointment_screen.dart';
 import 'features/appointment/presentation/screens/doctor_login_screen.dart';
 import 'features/appointment/presentation/screens/doctor_profile_after_setup_screen.dart';
 import 'features/appointment/presentation/screens/doctor_profile_setup_screen.dart';
@@ -64,6 +66,10 @@ class TenaMedApp extends StatelessWidget {
         GoRoute(
           path: '/appointment-list',
           builder: (context, state) => const AppointmentListScreen(),
+        ),
+        GoRoute(
+          path: '/book_appointment',
+          builder: (context, state) => const BookAppointmentScreen(),
         ),
 
       ],
